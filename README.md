@@ -1,5 +1,5 @@
-# Single Page Application example
-## John Hiemstra, "Mastering SASS"
+# Single Page Application starter
+### Brunch.io skeleton by John Hiemstra
 
 
 ### Callouts ###
